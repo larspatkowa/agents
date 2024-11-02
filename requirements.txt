@@ -1,0 +1,6 @@
+fastapi[standard]
+pydantic
+requests
+openai
+python-dotenv
+sqlite3

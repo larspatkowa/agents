@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+conversations.db
+test.py
+notes.md
+agents.code-workspace
